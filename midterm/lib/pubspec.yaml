@@ -1,0 +1,10 @@
+  theme: ThemeData(
+      textTheme: const TextTheme(
+        displayLarge: TextStyle(
+          color: Colors.white,
+          fontSize: 32,
+          fontWeight: FontWeight.bold
+        )
+      )
+    ),
+  ));
